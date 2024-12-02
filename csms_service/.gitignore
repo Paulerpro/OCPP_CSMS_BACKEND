@@ -1,1 +1,2 @@
-csms-venv
+csms_venv
+.env
